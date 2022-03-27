@@ -5,8 +5,9 @@ A Python lib based on plyer
 # Docs
 
 ```py
-  pip install -i https://test.pypi.org/simple/ dnpy
+  pip install -i https://test.pypi.org/simple/ dnpy (Broken)
 ```
+Download dnpy.py and put in your root folder :D
 
 #### Code Examples
 
