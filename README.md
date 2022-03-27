@@ -1,2 +1,2 @@
 # DesktopNotifier.PY
-A Python lib based on notifypy
+A Python lib based on plyer
