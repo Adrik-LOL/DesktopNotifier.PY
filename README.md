@@ -5,7 +5,7 @@ A Python lib based on plyer
 # Docs
 
 ```py
-  pip install dnpy
+  pip install -i https://test.pypi.org/simple/ dnpy
 ```
 
 #### Code Examples
